@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: cornflowerblue;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
     color: white;
     font-size: 50px;
     margin-left: 700px;
-    background-color: black;
+    background-color: cornflowerblue;
     cursor:pointer;
   }
 
